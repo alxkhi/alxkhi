@@ -1,8 +1,12 @@
-- 👋 Value: Helping engineers/architects and PMs/POs/BAs with technical editing, project documentation, coordination, stakeholder communication, reports, or other activities that can free up their time.
-- 👀 Roles: Senior Technical Writer, Head of Technical Content, Resource Manager, Internal Product Owner, Project Coordinator, Business Analyst, PM.
-- 🌱 Goals: Looking for new IoT/AI/ML/NoSQL/data projects that would help me grow further within these roles.
-- ✨ Achievements: Played one of the central roles in launching Apatar, an open-source ETL project, and its community growth. Led the creation of several ETL connectors and 100+ data maps as a project manager/coordinator. Assisted in building 20 technology-related websites from the ground up as a PM/PO and 10+ more as a contributor. Managed the delivery of 1,400 technical blog posts, hundreds of tutorials, and 40+ industry-focused research papers. Created 240+ project case studies based on hundreds of interviews with multiple stakeholders (BA/PM/QA/devs). Helped to publish and distribute 10 NoSQL database performance benchmarks. Grew a team of technical writers spread across 3 continents and 5 countries. PSPO™-certified.
-- ⚡ Fun facts: Visited 20+ countries and learned 5 languages. Provided 1,500 contributions to Wikipedia using the wikitext markup language. Cofounded a local Java user group, assisted 3 more.
+- 👋 Value: Helping companies build data/AI products and tools, managing distributed cross-functional teams since 2004
+- 👀 Focus: data integration, ETL, analytics, BI, data quality, databases (SQL/NoSQL), DWH, CRM, APIs, big data, artificial intelligence (AI), machine learning (ML), LLMs/GenAI, the Internet of things (IoT), IIoT
+- 🤖 Involved in AI initiatives since 2015
+- 🧩 Played one of the central roles in launching Apatar, an open-source DI/ETL project, and drawing 27,000 users
+— 🥇 Directed the creation of several ETL connectors (S3, XML/RSS, etc.) and 100+ prebuilt data maps (e.g., for SugarCRM↔Salesforce)
+— ✨ Owned 2 analytics tools, 3 data collection tools, 20 websites, and 3 AI POCs
+- 🤝 Organized 10+ engineering meetups from scratch featuring speakers from Microsoft, Adobe, Sun/Oracle/MySQL, Engine Yard, etc., gathering 60–100 attendees
+- ⚡ Managed the delivery of 1,400 technical blog posts, hundreds of tutorials, 40+ industry-focused research papers and 240+ project case studies based on hundreds of stakeholder interviews, drawing 3,000,000+ readers
+- ☕ Cofounded a local Java user group, assisted 3 more.
 - 📫 Reach me at https://www.linkedin.com/in/alexeykh/
 
 <!---
